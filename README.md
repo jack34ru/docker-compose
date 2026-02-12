@@ -153,14 +153,12 @@ services:
 
 ## Решение 5
 
-Скриншот 1 к заданию 4  
-![Screen 1](https://github.com/jack34ru/docker-compose/blob/main/screenshots/Screenshot_189.png)
+Скриншот 1 к заданию 5  
+![Screen 1](https://github.com/jack34ru/docker-compose/blob/main/screenshots/Screenshot_190.png)
 
 К заданию 5.1:  
 Путь по умолчанию для файла Compose - compose.yaml, а файл docker-compose.yaml поддерживаются для обратной совместимости. Если есть оба файла Compose выберет compose.yaml
 
-Скриншот 1 к заданию 5  
-![Screen 1](https://github.com/jack34ru/docker-compose/blob/main/screenshots/Screenshot_190.png)
 Скриншот 2 к заданию 5  
 ![Screen 2](https://github.com/jack34ru/docker-compose/blob/main/screenshots/Screenshot_191.png)
 Скриншот 3 к заданию 5  
