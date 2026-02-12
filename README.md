@@ -70,6 +70,7 @@ https://hub.docker.com/repository/docker/jack34ru/custom-nginx/general
 
 К заданию 3.3:  
 контейнер остановился, потому что его основной процесс завершился при сигнале Ctrl-C. В Docker контейнер живёт, пока живёт основной процесс.
+
 Скриншот 2 к заданию 3  
 ![Screen 2](https://github.com/jack34ru/docker-compose/blob/main/screenshots/Screenshot_184.png)
 Скриншот 3 к заданию 3  
@@ -79,6 +80,7 @@ https://hub.docker.com/repository/docker/jack34ru/custom-nginx/general
 
 К заданию 3.10:  
 Поменял порт на 81 внутри контейнера, а порт на хосте не изменялся.
+
 Скриншот 5 к заданию 3  
 ![Screen 5](https://github.com/jack34ru/docker-compose/blob/main/screenshots/Screenshot_187.png)
 Скриншот 6 к заданию 3  
